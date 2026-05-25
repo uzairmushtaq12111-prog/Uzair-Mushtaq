@@ -11,7 +11,11 @@ Python
 Google Sheets
 Link for Google Sheets
 (Add your Google Sheet link here)
+
+
 Day 1
+
+
 Problem Statement
 The goal of this project is to study different sampling methods and compare their performance on the same dataset. Sampling is important because collecting data from an entire population is difficult and time-consuming.
 Day 2
