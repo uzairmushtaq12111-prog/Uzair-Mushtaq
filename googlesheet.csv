@@ -1,20 +1,21 @@
-Dataset_ID	Sampling_Technique	Category	Description	Sample_Size	Population_Size	Accuracy_Percentage	Research_Field	Country	Survey_Date
-DS001	Systematic Sampling	Probability	Selection at fixed intervals	75	20024	77.1	Education	Germany	2025-02-22
-DS002	Systematic Sampling	Probability	Selection at fixed intervals	654	29651	70.92	Healthcare	USA	2025-04-30
-DS003	Simple Random Sampling	Probability	Equal chance for every member	624	15031	90.76	Technology	Australia	2025-08-03
-DS004	Cluster Sampling	Probability	Population divided into clusters	509	40618	78.07	Healthcare	USA	2025-12-24
-DS005	Snowball Sampling	Non-Probability	Participants recruit others	398	20210	74.51	Marketing	India	2025-02-17
-DS006	Snowball Sampling	Non-Probability	Participants recruit others	149	25526	94.58	Sports	UK	2025-01-23
-DS007	Purposive Sampling	Non-Probability	Selection based on purpose/judgment	599	10180	98.22	Agriculture	India	2025-10-10
-DS008	Convenience Sampling	Non-Probability	Selection based on availability	899	43198	87.94	Marketing	Australia	2025-04-09
-DS009	Systematic Sampling	Probability	Selection at fixed intervals	96	45336	76.61	Marketing	India	2025-04-30
-DS010	Systematic Sampling	Probability	Selection at fixed intervals	439	20217	83.15	Marketing	USA	2025-07-09
-DS011	Quota Sampling	Non-Probability	Fixed quota from each group	264	45920	77.74	Technology	Germany	2025-02-06
-DS012	Stratified Sampling	Probability	Population divided into groups	596	49784	77.1	Agriculture	Canada	2025-05-19
-DS013	Cluster Sampling	Probability	Population divided into clusters	751	23252	94.44	Healthcare	USA	2025-01-17
-DS014	Quota Sampling	Non-Probability	Fixed quota from each group	460	19546	71.92	Sports	Germany	2025-06-11
-DS015	Cluster Sampling	Probability	Population divided into clusters	721	34717	81.47	Technology	Canada	2025-03-15
-DS016	Convenience Sampling	Non-Probability	Selection based on availability	192	18162	91.6	Sports	UK	2025-10-27
-DS017	Snowball Sampling	Non-Probability	Participants recruit others	969	40242	81.58	Education	USA	2025-09-18
-DS018	Purposive Sampling	Non-Probability	Selection based on purpose/judgment	143	5087	94.97	Education	Germany	2025-03-23
-DS019	Snowball Sampling	Non-Probability	Participants recruit others	660	6163	81.16	Sports	Canada	2025-09-28
+Dataset_ID	 Sampling_Technique	       Category	           Description	                       Sample_Size	Population_Size	    Accuracy_Percentage	     Research_Field	      Country	      Survey_Date
+
+DS001	       Systematic Sampling	     Probability	       Selection at fixed intervals	          75	         20024	               77.1	                 Education	        Germany	      2025-02-22
+DS002      	 Systematic Sampling	     Probability	       Selection at fixed intervals	          654	         29651	               70.92	               Healthcare	        USA	          2025-04-30
+DS003	       Simple Random Sampling	   Probability	       Equal chance for every member        	624	         15031	               90.76	               Technology	        Australia	    2025-08-03
+DS004	       Cluster Sampling	         Probability	       Population divided into clusters     	509        	 40618	               78.07	               Healthcare	        USA	          2025-12-24
+DS005	       Snowball Sampling	       Non-Probability	   Participants recruit others	          398	         20210	               74.51	               Marketing	        India	        2025-02-17
+DS006	       Snowball Sampling	       Non-Probability	   Participants recruit others	          149	         25526	               94.58	               Sports	            UK	          2025-01-23
+DS007	       Purposive Sampling	       Non-Probability	   Selection based on purpose/judgment	  599	         10180	               98.22	               Agriculture	      India	        2025-10-10
+DS008	       Convenience Sampling	     Non-Probability	   Selection based on availability	      899	         43198	               87.94 	               Marketing	        Australia	    2025-04-09
+DS009	       Systematic Sampling	     Probability	       Selection at fixed intervals	           96	         45336	               76.61	               Marketing	        India       	2025-04-30
+DS010	       Systematic Sampling	     Probability	       Selection at fixed intervals	          439	         20217	               83.15	               Marketing	        USA	          2025-07-09
+DS011	       Quota Sampling	           Non-Probability	   Fixed quota from each group	          264	         45920	               77.74	               Technology	        Germany     	2025-02-06
+DS012	       Stratified Sampling	     Probability	       Population divided into groups       	596	         49784	               77.1	                 Agriculture	      Canada	      2025-05-19
+DS013	       Cluster Sampling	         Probability	       Population divided into clusters     	751	         23252	               94.44	               Healthcare	        USA	          2025-01-17
+DS014	       Quota Sampling	           Non-Probability	   Fixed quota from each group	          460	         19546	               71.92	               Sports	            Germany     	2025-06-11
+DS015	       Cluster Sampling	         Probability	       Population divided into clusters     	721	         34717	               81.47	               Technology	        Canada	      2025-03-15
+DS016	       Convenience Sampling	     Non-Probability	   Selection based on availability	      192	         18162	               91.6	                 Sports	            UK	          2025-10-27
+DS017	       Snowball Sampling	       Non-Probability	   Participants recruit others          	969	         40242	               81.58	               Education	        USA	          2025-09-18
+DS018	       Purposive Sampling	       Non-Probability	   Selection based on purpose/judgment	  143	          5087	               94.97	               Education	        Germany	      2025-03-23
+DS019	       Snowball Sampling	       Non-Probability	   Participants recruit others	          660	          6163	               81.16	               Sports	            Canada	      2025-09-28
