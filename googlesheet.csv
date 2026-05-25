@@ -1,5 +1,6 @@
 Dataset_ID	 Sampling_Technique	       Category	           Description	                       Sample_Size	Population_Size	    Accuracy_Percentage	     Research_Field	      Country	      Survey_Date
 
+
 DS001	       Systematic Sampling	     Probability	       Selection at fixed intervals	          75	         20024	               77.1	                 Education	        Germany	      2025-02-22
 DS002      	 Systematic Sampling	     Probability	       Selection at fixed intervals	          654	         29651	               70.92	               Healthcare	        USA	          2025-04-30
 DS003	       Simple Random Sampling	   Probability	       Equal chance for every member        	624	         15031	               90.76	               Technology	        Australia	    2025-08-03
