@@ -1,5 +1,9 @@
 Uzair Mushtaq Bhat
+
+
 Data Sampling Techniques
+
+
 This project compares three important sampling methods used in statistics and data science:
 Random Sampling
 Systematic Sampling
