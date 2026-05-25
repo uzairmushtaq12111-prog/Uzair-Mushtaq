@@ -12,11 +12,6 @@ Excel
 Python
 
 
-Google Sheets
-Link for Google Sheets
-(Add your Google Sheet link here)
-
-
 Day 1
 
 
